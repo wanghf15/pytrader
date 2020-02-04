@@ -6,6 +6,7 @@ docker/env
 docker-compose.yml
 static/*
 .DS_Store
+.idea/
 *.pyc
 *.log
 *.swp
